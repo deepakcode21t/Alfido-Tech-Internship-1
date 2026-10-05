@@ -35,3 +35,51 @@ Created a product management API supporting:
 ## 5. Learning Outcome
 
 Gained practical experience in **backend development, REST APIs, MongoDB integration, CRUD operations, data validation, and error handling**.
+
+
+
+alfido-mern-internship/
+│
+├── task-1-rest-api/
+│   ├── server/
+│   │   ├── models/
+│   │   ├── routes/
+│   │   ├── middleware/
+│   │   ├── server.js
+│   │   ├── .env.example
+│   │   ├── .gitignore
+│   │   └── package.json
+│   └── README.md
+│
+├── task-2-react-spa/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── App.jsx
+│   │   ├── main.jsx
+│   │   └── index.css
+│   ├── public/
+│   ├── package.json
+│   ├── .gitignore
+│   └── README.md
+│
+├── task-3-authentication/
+│   ├── server/
+│   │   ├── models/
+│   │   ├── routes/
+│   │   ├── middleware/
+│   │   ├── server.js
+│   │   ├── .env.example
+│   │   ├── .gitignore
+│   │   └── package.json
+│   │
+│   ├── client/
+│   │   ├── src/
+│   │   │   ├── components/
+│   │   │   ├── App.jsx
+│   │   │   └── main.jsx
+│   │   ├── package.json
+│   │   └── .gitignore
+│   │
+│   └── README.md
+│
+└── README.md
